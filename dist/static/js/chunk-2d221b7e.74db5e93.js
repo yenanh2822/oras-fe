@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d221b7e"],{cc19:function(e,t,n){"use strict";n.r(t);var c=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("job-detail",{attrs:{"is-edit":!0}})},a=[],o=n("4c43"),i={name:"EditForm",components:{JobDetail:o["a"]}},l=i,s=n("2877"),r=Object(s["a"])(l,c,a,!1,null,null,null);t["default"]=r.exports}}]);

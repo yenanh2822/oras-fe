@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c203c"],{4901:function(e,t,n){"use strict";n.r(t);var a=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("job-detail",{attrs:{"is-edit":!1}})},c=[],o=n("4c43"),l={name:"CreateJob",components:{JobDetail:o["a"]}},s=l,i=n("2877"),r=Object(i["a"])(s,a,c,!1,null,null,null);t["default"]=r.exports}}]);
